@@ -7,4 +7,4 @@
 * CSS
 * Fetch API - make a request to the API to get back the information about movies
 
-## [The Movie Database API]('https://www.themoviewdb.org')
+##  [The Movie Database API](https://www.themoviewdb.org)
