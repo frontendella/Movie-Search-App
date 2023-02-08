@@ -11,8 +11,3 @@
 ##  [The Movie Database API](https://www.themoviedb.org/)
 
 
-
-React Movie Search Web App: allow user to type-in a query, make a call to the API and retrieve a list of movies that relevant to the Search
-
-
-react javascript css html api components state-management functional-programming fetch-api
