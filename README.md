@@ -1,4 +1,4 @@
-# Movie Search App (currently in a Progress)
+# Movie Search App
 
 - React components
 - Functional components
