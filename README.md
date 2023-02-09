@@ -7,7 +7,7 @@
 * Add State to the functional components
 * CSS
 * Fetch API - make a request to the API to get back the information about movies
-* Mobile responsive
+
 
 ##  [The Movie Database API](https://www.themoviedb.org/)
 
